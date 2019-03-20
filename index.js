@@ -25,7 +25,7 @@ for(var i =0; i < words.length; i++) {
 }
 function findTheCheese (foods) {
 for(var i =0; i < foods.length; i++) {
-if(foods[i] === 'cheddar' || foods[i] === 'gouda' || foods[i] === 'camembert' || foods[i] === 'swiss cheese') {
+if(foods[i] === 'cheddar' || foods[i] === 'gouda' || foods[i] === 'camembert') {
 return foods[i];
 } 
 }
