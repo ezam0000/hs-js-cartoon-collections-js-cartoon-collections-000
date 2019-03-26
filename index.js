@@ -1,7 +1,7 @@
 function dwarfRollCall(dwarves) {
 var list = "";
 dwarves.forEach(function(name, idx) {
-newStr += (idx+1 + ". " + name + " ");
+list += (idx+1 + ". " + name + " ");
 });
 return list;
 
