@@ -35,6 +35,12 @@ for(var i =0; i < foods.length; i++) {
 return "no cheese!"
 } 
 
-function starWithb(array)
-var newarray=[]
-ar
+var [bob]
+function starWithb(array){
+for (var i=0; i<array.length;i++)
+
+
+  
+}
+
+“bob”.startsWith(“b”) 
