@@ -37,12 +37,18 @@ return "no cheese!"
 
 var [bob]
 function starWithb(array){
+  var names = []
 for (var i=0; i<array.length;i++){
-  isFinite
+  if(array[i].startsWith("b")){
+  names.push(array[i])
+  
 }
+return names
   
+}
+  // 41. 
 
-  
+  // how fo and for each loops work
 }
 
 “bob”.startsWith(“b”) 
