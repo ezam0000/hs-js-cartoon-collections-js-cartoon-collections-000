@@ -35,3 +35,6 @@ for(var i =0; i < foods.length; i++) {
 return "no cheese!"
 } 
 
+function starWithb(array)
+var newarray=[]
+ar
